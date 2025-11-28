@@ -43,5 +43,4 @@ This project includes 22+ analytical queries to answer business questions such a
 - **Stored Procedures** → `PlaceOrder` for streamlined order entry  
 - **Functions** → `CalculateTotalCost` for dynamic cost calculation  
 - **Views** → `CustomerOrderSummary`, `ProductReturnSummary`
-
 -
